@@ -32,7 +32,7 @@
 
 1. Fixture Generation:
 
-- For player vs. player: Use a round-robin or knockout system depending on the tournament format.
+- For player vs. player: Use a knockout system for the tournament format.
 - For team vs. team: Ensure that team sizes match and create matchups based on the team roster.
 
 2. Bracket Updates:
@@ -152,4 +152,4 @@ Description: Admin and team manager dashboard for managing tournaments, teams, p
 - Profile Page (Optional for User Roles)
 Description: User profile page with personal information and tournament participation details.
 
-**ALL THE ABOVE POINTS ARE SUGGESTIONS, YOU MAY MODIFY AS REQUIRED. THE FIRST DRAFT OF THE APPLICATION NEEDS TO BE SIMPLE AND USER FRIENDLY, IT NEED NOT HAVE ALL THE ENDPOINTS AND PAGES, ONLY BASIC FUNCTIONALITY FOR HOSTING A TOURNAMENT IS REQUIRED.**
+**ALL THE ABOVE POINTS ARE SUGGESTIONS, YOU MAY MODIFY AS REQUIRED. THE FIRST DRAFT OF THE APPLICATION NEEDS TO BE SIMPLE AND USER FRIENDLY, IT NEED NOT HAVE ALL THE ENDPOINTS AND PAGES, ONLY BASIC FUNCTIONALITY FOR HOSTING A TOURNAMENT IS REQUIRED. YOU MAY INITIALLY FOCUS ON PLAYER ON PLAYER FIXTURES**
